@@ -1,5 +1,10 @@
 # Angular-4-CRUD-With-Web-API
 
+Before running this project
+1. Web API : Edit Web.config -> Connection String as Per Your SQL Server
+2. Create SQL Server DB Using the DB Script
+3. Angular 4 : Install npm packages using 'npm install' command
+
 ng new angularCURD  //创建angular项目
 cd angularCURD
 ng serve --open  //启动服务并打开浏览器localhost://4200
