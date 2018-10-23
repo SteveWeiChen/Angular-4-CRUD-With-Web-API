@@ -1,6 +1,6 @@
 ﻿USE [WebAPIDB]
 GO
-/****** Object:  Table [dbo].[Employee]    Script Date: 01/17/2017 7:43:19 PM ******/
+/****** Object:  Table [dbo].[Employee]    Script Date: 01/01/2017 7:43:19 PM ******/
 IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[Employee]') AND type in (N'U'))
 DROP TABLE [dbo].[Employee]
 GO
