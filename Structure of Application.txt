@@ -14,4 +14,4 @@
 |   |
 |   |--app.module.ts
 |
-|--index.html (cdn path for bootstrap and font-awesome icon)
+|--index.html (cdn path for bootstrap and font-awesome icon)11
